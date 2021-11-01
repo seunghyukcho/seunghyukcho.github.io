@@ -1,37 +1,22 @@
 <template>
   <div id="app">
     <b-navbar>
-      <template #brand>
-        <b-navbar-item href='#'>
-            <img
-                src="https://raw.githubusercontent.com/buefy/buefy/dev/static/img/buefy-logo.png"
-                alt="Lightweight UI components for Vue.js based on Bulma"
-            >
-        </b-navbar-item>
-      </template>
       <template #end>
-        <b-navbar-item href="#">
+        <b-navbar-item tag="router-link" :to="{path: '/'}">
+            Home
+        </b-navbar-item>
+        <b-navbar-item tag="router-link" :to="{path: '/publications'}">
             Publications
         </b-navbar-item>
         <b-navbar-item href="#">
             Awards
         </b-navbar-item>
         <b-navbar-item href="#">
-            Projects
+            Experiences
         </b-navbar-item>
-        <b-navbar-dropdown label="Others">
-          <b-navbar-item href="#">
-              GitHub
-          </b-navbar-item>
-          <b-navbar-item href="#">
-              Brunch
-          </b-navbar-item>
-          <b-navbar-item href="#">
-              Tech Blog
-          </b-navbar-item>
-        </b-navbar-dropdown>
       </template>
     </b-navbar>
+    <router-view/>
   </div>
 </template>
 
