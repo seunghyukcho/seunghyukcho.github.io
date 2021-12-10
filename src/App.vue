@@ -8,10 +8,10 @@
         <b-navbar-item tag="router-link" :to="{path: '/publications'}">
             Publications
         </b-navbar-item>
-        <b-navbar-item href="#">
+        <b-navbar-item tag="router-link" :to="{path: '/awards'}">
             Awards
         </b-navbar-item>
-        <b-navbar-item href="#">
+        <b-navbar-item tag="router-link" :to="{path: '/experiences'}">
             Experiences
         </b-navbar-item>
       </template>
