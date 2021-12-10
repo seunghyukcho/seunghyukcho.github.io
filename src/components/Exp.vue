@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="hero is-medium is-primary mb-6">
+    <section class="hero is-medium is-link mb-6">
       <div class="hero-body">
         <p class="title">
           Experiences
