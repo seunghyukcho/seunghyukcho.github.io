@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="hero is-medium is-link mb-6">
+    <section class="hero is-medium is-success mb-6">
       <div class="hero-body">
         <p class="title">
           Awards
@@ -38,6 +38,7 @@
           <ul>
             <li><a href="https://github.com/D2CampusFest/7th">D2 Campus Fest Mini 2019</a>, Android development, 2nd prize</li>
             <li>POSTECH-KAIST Science War 2019, Science Quiz Competition, Win</li>
+            <li>Seoul Hardware Hackathon 2021, 2nd Prize</li>
           </ul>
         </div>
       </div>
