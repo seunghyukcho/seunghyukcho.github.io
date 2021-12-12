@@ -26,6 +26,9 @@
             <a href="https://brunch.co.kr/@choseunghyek">
               <img :src="require('../assets/brunch.png')" width="48"/>
             </a>
+            <a href="https://4stack.tistory.com">
+              <img :src="require('../assets/tistory.png')" width="48"/>
+            </a>
           </div>
         </div>
       </div>
