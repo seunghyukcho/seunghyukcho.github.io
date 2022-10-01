@@ -16,18 +16,12 @@
           </div>
           <div class="subtitle is-size-6-mobile">
             I'm a graduate student in <a href="https://ml.postech.ac.kr">POSTECH ML Lab.</a><br/>
-            My research interests are crowdsourcing, variational inference and generative models.<br/>
+            My research interests are (i) handling tree-like structured data such as crowdsourcing and word hierarchy, and (ii) learning generative models on non-Euclidean data.<br/>
             You can see more details in my <a href="https://postechackr-my.sharepoint.com/:b:/g/personal/shhj1998_postech_ac_kr/EcKNl3iUXDpBkpVyi976KsAB5HH9eAstxlLX9ZDGVZMN7w?e=wem7Er">CV</a> and contact me at shhj1998@postech.ac.kr.
           </div>
           <div class="block">
             <a href="https://github.com/seunghyukcho" class="mr-2">
               <img :src="require('../assets/github.png')" width="48"/>
-            </a>
-            <a href="https://brunch.co.kr/@choseunghyek" class="mr-2">
-              <img :src="require('../assets/brunch.png')" width="48"/>
-            </a>
-            <a href="https://4stack.tistory.com">
-              <img :src="require('../assets/tistory.png')" width="48"/>
             </a>
           </div>
         </div>
