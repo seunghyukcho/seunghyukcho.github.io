@@ -75,32 +75,6 @@
             <header class="card-header">
               <div class="card-header-title">
                 <p>
-                Robust Deep Learning from Crowds with Belief Propagation <span style="color:blue;"> [AISTATS '22] </span>
-                </p>
-              </div>
-              <button class="card-header-icon">
-                <span class="icon">
-                  <a class="fas fa-external-link-alt" href="https://proceedings.mlr.press/v151/kim22a.html"/>
-                </span>
-              </button>
-            </header>
-            <div class="card-content">
-              <div class="content">
-                <div class="is-size-7">
-                  Hoyoung Kim<sup>*</sup>, <b>Seunghyuk Cho</b><sup>*</sup>, Dongwoo Kim, Jungseul Ok
-                </div>
-                <b-image style="margin:0"
-                  :src="require('../assets/deepbp.png')"
-                ></b-image>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="column">
-          <div class="card has-text-left">
-            <header class="card-header">
-              <div class="card-header-title">
-                <p>
                 A Rotated Hyperbolic Wrapped Normal Distribution for Hierarchical Representation Learning <span style="color:magenta;"> [NeurIPS '22] </span>
                 </p>
               </div>
@@ -117,6 +91,32 @@
                 </div>
                 <b-image style="margin:0"
                   :src="require('../assets/rown.png')"
+                ></b-image>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card has-text-left">
+            <header class="card-header">
+              <div class="card-header-title">
+                <p>
+                Robust Deep Learning from Crowds with Belief Propagation <span style="color:blue;"> [AISTATS '22] </span>
+                </p>
+              </div>
+              <button class="card-header-icon">
+                <span class="icon">
+                  <a class="fas fa-external-link-alt" href="https://proceedings.mlr.press/v151/kim22a.html"/>
+                </span>
+              </button>
+            </header>
+            <div class="card-content">
+              <div class="content">
+                <div class="is-size-7">
+                  Hoyoung Kim<sup>*</sup>, <b>Seunghyuk Cho</b><sup>*</sup>, Dongwoo Kim, Jungseul Ok
+                </div>
+                <b-image style="margin:0"
+                  :src="require('../assets/deepbp.png')"
                 ></b-image>
               </div>
             </div>
