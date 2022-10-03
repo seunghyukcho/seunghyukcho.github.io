@@ -22,7 +22,7 @@
               </div>
               <button class="card-header-icon">
                 <span class="icon">
-                  <a class="fas fa-external-link-alt" href="#"/>
+                  <a class="fas fa-external-link-alt" href="https://arxiv.org/abs/2209.15217"/>
                 </span>
               </button>
             </header>
