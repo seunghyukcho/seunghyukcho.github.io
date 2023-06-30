@@ -16,7 +16,7 @@
           </div>
           <div class="subtitle is-size-6-mobile">
             I'm a graduate student in <a href="https://ml.postech.ac.kr">POSTECH ML Lab.</a><br/>
-            My research interests are (i) handling tree-like structured data such as crowdsourcing and word hierarchy, and (ii) learning generative models on non-Euclidean data.<br/>
+            My research interests are i) generative models and ii) machine learning on non-Euclidean space.
             You can see more details in my <a href="https://postechackr-my.sharepoint.com/:b:/g/personal/shhj1998_postech_ac_kr/EcKNl3iUXDpBkpVyi976KsAB5HH9eAstxlLX9ZDGVZMN7w?e=wem7Er">CV</a> and contact me at shhj1998@postech.ac.kr.
           </div>
           <div class="block">

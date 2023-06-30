@@ -33,12 +33,13 @@
         </div>
       </div>
       <div class="mb-6 container has-text-left">
-        <h1 class="title">Etc</h1>
+        <h1 class="title">Others</h1>
         <div class="content">
           <ul>
             <li><a href="https://github.com/D2CampusFest/7th">D2 Campus Fest Mini 2019</a>, Android development, 2nd prize</li>
             <li>POSTECH-KAIST Science War 2019, Science Quiz Competition, Win</li>
             <li>Seoul Hardware Hackathon 2021, 2nd Prize</li>
+            <li>학회 우수논문상, 한국인공지능학회 & NAVER 추계공동학술대회, 2022</li>
           </ul>
         </div>
       </div>
