@@ -17,6 +17,32 @@
             <header class="card-header">
               <div class="card-header-title">
                 <p style="font-size: 80%">
+                Feature Unlearning for Generative Models via Implicit Feedback <span style="color:green;"> [AAAI `24] </span>
+                </p>
+              </div>
+              <button class="card-header-icon" style="padding-left: 0px">
+                <span class="icon">
+                  <a class="fas fa-external-link-alt" href="https://arxiv.org/abs/2303.05699"/>
+                </span>
+              </button>
+            </header>
+            <div class="card-content">
+              <div class="content">
+                <div class="is-size-7">
+                  Saemi Moon, <b>Seunghyuk Cho</b>, Dongwoo Kim
+                </div>
+                <b-image style="margin:0"
+                  :src="require('../assets/unlearning.png')"
+                ></b-image>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card has-text-left">
+            <header class="card-header">
+              <div class="card-header-title">
+                <p style="font-size: 80%">
                 Hyperbolic VAE via Latent Gaussian Distributions <span style="color:magenta;"> [NeurIPS '23] </span>
                 </p>
               </div>
@@ -64,6 +90,8 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="columns">
         <div class="column">
           <div class="card has-text-left">
             <header class="card-header">
@@ -89,6 +117,10 @@
               </div>
             </div>
           </div>
+        </div>
+        <div class="column">
+        </div>
+        <div class="column">
         </div>
       </div>
       <h1 class="title has-text-left">Workshop Papers</h1>
@@ -131,32 +163,6 @@
             <header class="card-header">
               <div class="card-header-title">
                 <p style="font-size: 80%">
-                Feature Unlearning for Generative Models via Implicit Feedback
-                </p>
-              </div>
-              <button class="card-header-icon" style="padding-left: 0px">
-                <span class="icon">
-                  <a class="fas fa-external-link-alt" href="https://arxiv.org/abs/2303.05699"/>
-                </span>
-              </button>
-            </header>
-            <div class="card-content">
-              <div class="content">
-                <div class="is-size-7">
-                  Saemi Moon, <b>Seunghyuk Cho</b>, Dongwoo Kim
-                </div>
-                <b-image style="margin:0"
-                  :src="require('../assets/unlearning.png')"
-                ></b-image>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="column">
-          <div class="card has-text-left">
-            <header class="card-header">
-              <div class="card-header-title">
-                <p style="font-size: 80%">
                 Roughly Collected Dataset for Contact Force Sensing Catheter
                 </p>
               </div>
@@ -177,6 +183,8 @@
               </div>
             </div>
           </div>
+        </div>
+        <div class="column">
         </div>
         <div class="column">
         </div>
