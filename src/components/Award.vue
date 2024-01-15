@@ -3,7 +3,7 @@
     <section class="hero is-medium is-success mb-6">
       <div class="hero-body">
         <p class="title">
-          Awards
+          Honors
         </p>
       </div>
     </section>
@@ -33,9 +33,10 @@
         </div>
       </div>
       <div class="mb-6 container has-text-left">
-        <h1 class="title">Others</h1>
+        <h1 class="title">Miscellaneous</h1>
         <div class="content">
           <ul>
+            <li>POSTECHian Fellowship, 2023</li>
             <li>학회 우수논문상, 한국인공지능학회 하계학술대회, 2023</li>
             <li>학회 우수논문상, 한국인공지능학회 & NAVER 추계공동학술대회, 2022</li>
             <li>Seoul Hardware Hackathon 2021, 2nd Prize</li>

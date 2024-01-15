@@ -9,7 +9,7 @@
             Publications
         </b-navbar-item>
         <b-navbar-item tag="router-link" :to="{path: '/awards'}">
-            Awards
+            Honors
         </b-navbar-item>
         <b-navbar-item tag="router-link" :to="{path: '/experiences'}">
             Experiences

@@ -31,7 +31,7 @@
                 <div class="is-size-7">
                   Saemi Moon, <b>Seunghyuk Cho</b>, Dongwoo Kim
                 </div>
-                <b-image style="margin:0"
+                <b-image style="margin:5px auto 0 auto"
                   :src="require('../assets/unlearning.png')"
                 ></b-image>
               </div>
@@ -57,7 +57,7 @@
                 <div class="is-size-7">
                   <b>Seunghyuk Cho</b>, Juyong Lee, Dongwoo Kim
                 </div>
-                <b-image style="margin:0"
+                <b-image style="margin:5px auto 0 auto; width: 40.75%" 
                   :src="require('../assets/gm-vae.png')"
                 ></b-image>
               </div>
@@ -83,7 +83,7 @@
                 <div class="is-size-7">
                   <b>Seunghyuk Cho</b>, Juyong Lee, Jaesik Park, Dongwoo Kim
                 </div>
-                <b-image style="margin:0"
+                <b-image style="margin:5px auto 0 auto; width: 65%"
                   :src="require('../assets/rown.png')"
                 ></b-image>
               </div>
@@ -111,7 +111,7 @@
                 <div class="is-size-7">
                   Hoyoung Kim<sup>*</sup>, <b>Seunghyuk Cho</b><sup>*</sup>, Dongwoo Kim, Jungseul Ok
                 </div>
-                <b-image style="margin:0"
+                <b-image style="margin:5px auto 0 auto"
                   :src="require('../assets/deepbp.png')"
                 ></b-image>
               </div>
@@ -144,7 +144,7 @@
                 <div class="is-size-7">
                   Sungjun Cho, <b>Seunghyuk Cho</b>, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
                 </div>
-                <b-image style="margin:0"
+                <b-image style="margin:5px auto 0 auto"
                   :src="require('../assets/fpst.png')"
                 ></b-image>
               </div>
@@ -177,7 +177,7 @@
                 <div class="is-size-7">
                   <b>Seunghyuk Cho</b><sup>*</sup>, Minsoo Koo<sup>*</sup>, Dongwoo Kim, Juyoung Lee, Yeonwoo Jung, Kibyung Nam, Changmo Hwang
                 </div>
-                <b-image style="margin:0"
+                <b-image style="margin:5px auto 0 auto"
                   :src="require('../assets/catheter.png')"
                 ></b-image>
               </div>
