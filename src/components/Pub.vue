@@ -17,7 +17,7 @@
             <header class="card-header">
               <div class="card-header-title">
                 <p style="font-size: 80%">
-                Feature Unlearning for Generative Models via Implicit Feedback <span style="color:green;"> [AAAI `24] </span>
+                Feature Unlearning for Pre-trained GANs and VAEs <span style="color:green;"> [AAAI `24] </span>
                 </p>
               </div>
               <button class="card-header-icon" style="padding-left: 0px">
