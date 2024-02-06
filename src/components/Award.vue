@@ -36,9 +36,10 @@
         <h1 class="title">Miscellaneous</h1>
         <div class="content">
           <ul>
-            <li>POSTECHian Fellowship, 2023</li>
-            <li>학회 우수논문상, 한국인공지능학회 하계학술대회, 2023</li>
-            <li>학회 우수논문상, 한국인공지능학회 & NAVER 추계공동학술대회, 2022</li>
+            <li>포스텍 인공지능 대학원 혁신인재 양성 교육연구단 참여대학원생 우수논문상 2023, 최우수상</li>
+            <li>POSTECHian Fellowship 2023</li>
+            <li>한국인공지능학회 하계학술대회 2023, 학회 우수논문상</li>
+            <li>한국인공지능학회 & NAVER 추계공동학술대회 2022, 학회 우수논문상</li>
             <li>Seoul Hardware Hackathon 2021, 2nd Prize</li>
             <li>POSTECH-KAIST Science War 2019, Science Quiz Competition, Win</li>
             <li><a href="https://github.com/D2CampusFest/7th">D2 Campus Fest Mini 2019</a>, Android development, 2nd prize</li>
