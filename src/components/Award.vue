@@ -47,7 +47,7 @@
         <h1 class="title">Miscellaneous</h1>
         <div class="content">
           <ul>
-            <li>대학원 대통령 과확장학생 2025</li>
+            <li>대학원 대통령과학장학생 2025</li>
             <li>
               포스텍 인공지능 대학원 혁신인재 양성 교육연구단 참여대학원생
               우수논문상 2023, 최우수상
