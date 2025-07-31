@@ -15,7 +15,7 @@
               <div class="card-header-title">
                 <p style="font-size: 80%">
                   Feature Unlearning for Pre-trained GANs and VAEs
-                  <span style="color: green"> [AAAI `24] </span>
+                  <span style="color: #a21caf"> [AAAI `24] </span>
                 </p>
               </div>
               <button class="card-header-icon" style="padding-left: 0px">
@@ -35,6 +35,9 @@
                 <b-image
                   style="margin: 5px auto 0 auto"
                   :src="require('../assets/unlearning.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
                 ></b-image>
               </div>
             </div>
@@ -46,7 +49,7 @@
               <div class="card-header-title">
                 <p style="font-size: 80%">
                   Hyperbolic VAE via Latent Gaussian Distributions
-                  <span style="color: magenta"> [NeurIPS '23] </span>
+                  <span style="color: #4338ca"> [NeurIPS '23] </span>
                 </p>
               </div>
               <button class="card-header-icon" style="padding-left: 0px">
@@ -64,8 +67,11 @@
                   <b>Seunghyuk Cho</b>, Juyong Lee, Dongwoo Kim
                 </div>
                 <b-image
-                  style="margin: 5px auto 0 auto; width: 40.75%"
+                  style="margin: 5px auto 0 auto"
                   :src="require('../assets/gm-vae.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
                 ></b-image>
               </div>
             </div>
@@ -78,7 +84,7 @@
                 <p style="font-size: 80%">
                   A Rotated Hyperbolic Wrapped Normal Distribution for
                   Hierarchical Representation Learning
-                  <span style="color: magenta"> [NeurIPS '22] </span>
+                  <span style="color: #4338ca"> [NeurIPS '22] </span>
                 </p>
               </div>
               <button class="card-header-icon" style="padding-left: 0px">
@@ -96,8 +102,11 @@
                   <b>Seunghyuk Cho</b>, Juyong Lee, Jaesik Park, Dongwoo Kim
                 </div>
                 <b-image
-                  style="margin: 5px auto 0 auto; width: 65%"
+                  style="margin: 5px auto 0 auto"
                   :src="require('../assets/rown.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
                 ></b-image>
               </div>
             </div>
@@ -111,7 +120,7 @@
               <div class="card-header-title">
                 <p style="font-size: 80%">
                   Robust Deep Learning from Crowds with Belief Propagation
-                  <span style="color: blue"> [AISTATS '22] </span>
+                  <span style="color: #c2410c"> [AISTATS '22] </span>
                 </p>
               </div>
               <button class="card-header-icon" style="padding-left: 0px">
@@ -132,6 +141,9 @@
                 <b-image
                   style="margin: 5px auto 0 auto"
                   :src="require('../assets/deepbp.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
                 ></b-image>
               </div>
             </div>
@@ -147,9 +159,79 @@
             <header class="card-header">
               <div class="card-header-title">
                 <p style="font-size: 80%">
+                  GeoDANO: Geometric VLM with Domain Agnostic Vision Encoder
+                  <span style="color: #0f766e"> [ICLR SCI-FM '25] </span>
+                </p>
+              </div>
+              <button class="card-header-icon" style="padding-left: 0px">
+                <span class="icon">
+                  <a
+                    class="fas fa-external-link-alt"
+                    href="https://arxiv.org/abs/2502.11360"
+                  />
+                </span>
+              </button>
+            </header>
+            <div class="card-content">
+              <div class="content">
+                <div class="is-size-7">
+                  <b>Seunghyuk Cho</b>, Zhenyue Qin, Yang Liu, Youngbin Choi,
+                  Seungbeom Lee, Dongwoo Kim
+                </div>
+                <b-image
+                  style="margin: 5px auto 0 auto"
+                  :src="require('../assets/geodano.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
+                ></b-image>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card has-text-left">
+            <header class="card-header">
+              <div class="card-header-title">
+                <p style="font-size: 80%">
+                  CoPL: Collaborative Preference Learning for Personalizing LLMs
+                  <span style="color: #0f766e"> [ICLR Bi-Align '25] </span>
+                </p>
+              </div>
+              <button class="card-header-icon" style="padding-left: 0px">
+                <span class="icon">
+                  <a
+                    class="fas fa-external-link-alt"
+                    href="https://arxiv.org/abs/2503.01658"
+                  />
+                </span>
+              </button>
+            </header>
+            <div class="card-content">
+              <div class="content">
+                <div class="is-size-7">
+                  Youngbin Choi, <b>Seunghyuk Cho</b>, Minjong Lee, MoonJeong
+                  Park, Yesong Ko, Jungseul Ok, Dongwoo Kim
+                </div>
+                <b-image
+                  style="margin: 5px auto 0 auto"
+                  :src="require('../assets/copl.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
+                ></b-image>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card has-text-left">
+            <header class="card-header">
+              <div class="card-header-title">
+                <p style="font-size: 80%">
                   Curve Your Attention: Mixed-Curvature Transformers for Graph
                   Representation Learning
-                  <span style="color: magenta"> [ICML TAGML '23] </span>
+                  <span style="color: #be123c"> [ICML TAGML '23] </span>
                 </p>
               </div>
               <button class="card-header-icon" style="padding-left: 0px">
@@ -170,16 +252,52 @@
                 <b-image
                   style="margin: 5px auto 0 auto"
                   :src="require('../assets/fpst.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
                 ></b-image>
               </div>
             </div>
           </div>
         </div>
-        <div class="column"></div>
-        <div class="column"></div>
       </div>
       <h1 class="title has-text-left">Pre-prints</h1>
       <div class="columns">
+        <div class="column">
+          <div class="card has-text-left">
+            <header class="card-header">
+              <div class="card-header-title">
+                <p style="font-size: 80%">
+                  Plane Geometry Problem Solving with Multi-modal Reasoning: A
+                  Survey
+                </p>
+              </div>
+              <button class="card-header-icon" style="padding-left: 0px">
+                <span class="icon">
+                  <a
+                    class="fas fa-external-link-alt"
+                    href="https://arxiv.org/abs/2505.14340"
+                  />
+                </span>
+              </button>
+            </header>
+            <div class="card-content">
+              <div class="content">
+                <div class="is-size-7">
+                  <b>Seunghyuk Cho</b>, Zhenyue Qin, Yang Liu, Youngbin Choi,
+                  Seungbeom Lee, Dongwoo Kim
+                </div>
+                <b-image
+                  style="margin: 5px auto 0 auto"
+                  :src="require('../assets/pgps_survey.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
+                ></b-image>
+              </div>
+            </div>
+          </div>
+        </div>
         <div class="column">
           <div class="card has-text-left">
             <header class="card-header">
@@ -207,12 +325,14 @@
                 <b-image
                   style="margin: 5px auto 0 auto"
                   :src="require('../assets/catheter.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
                 ></b-image>
               </div>
             </div>
           </div>
         </div>
-        <div class="column"></div>
         <div class="column"></div>
       </div>
     </div>
@@ -225,4 +345,11 @@ export default {
 };
 </script>
 
-<style></style>
+<style scoped>
+.nocrop ::v-deep img.has-ratio {
+  object-fit: contain; /* 핵심 */
+  object-position: center;
+  width: 100%;
+  height: 100%;
+}
+</style>
