@@ -14,6 +14,76 @@
             <header class="card-header">
               <div class="card-header-title">
                 <p style="font-size: 80%">
+                  GeoDANO: Geometric VLM with Domain Agnostic Vision Encoder
+                  <span style="color: #0f766e"> [EMNLP Findings '25] </span>
+                </p>
+              </div>
+              <button class="card-header-icon" style="padding-left: 0px">
+                <span class="icon">
+                  <a
+                    class="fas fa-external-link-alt"
+                    href="https://arxiv.org/abs/2502.11360"
+                  />
+                </span>
+              </button>
+            </header>
+            <div class="card-content">
+              <div class="content">
+                <div class="is-size-7">
+                  <b>Seunghyuk Cho</b>, Zhenyue Qin, Yang Liu, Youngbin Choi,
+                  Seungbeom Lee, Dongwoo Kim
+                </div>
+                <b-image
+                  style="margin: 5px auto 0 auto"
+                  :src="require('../assets/geodano.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
+                ></b-image>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card has-text-left">
+            <header class="card-header">
+              <div class="card-header-title">
+                <p style="font-size: 80%">
+                  CoPL: Collaborative Preference Learning for Personalizing LLMs
+                  <span style="color: #0f766e"> [EMNLP Main '25] </span>
+                </p>
+              </div>
+              <button class="card-header-icon" style="padding-left: 0px">
+                <span class="icon">
+                  <a
+                    class="fas fa-external-link-alt"
+                    href="https://arxiv.org/abs/2503.01658"
+                  />
+                </span>
+              </button>
+            </header>
+            <div class="card-content">
+              <div class="content">
+                <div class="is-size-7">
+                  Youngbin Choi, <b>Seunghyuk Cho</b>, Minjong Lee, MoonJeong
+                  Park, Yesong Ko, Jungseul Ok, Dongwoo Kim
+                </div>
+                <b-image
+                  style="margin: 5px auto 0 auto"
+                  :src="require('../assets/copl.png')"
+                  class="nocrop"
+                  responsive
+                  ratio="16by9"
+                ></b-image>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card has-text-left">
+            <header class="card-header">
+              <div class="card-header-title">
+                <p style="font-size: 80%">
                   Feature Unlearning for Pre-trained GANs and VAEs
                   <span style="color: #a21caf"> [AAAI `24] </span>
                 </p>
@@ -43,6 +113,8 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="columns">
         <div class="column">
           <div class="card has-text-left">
             <header class="card-header">
@@ -112,8 +184,6 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="columns">
         <div class="column">
           <div class="card has-text-left">
             <header class="card-header">
@@ -149,81 +219,9 @@
             </div>
           </div>
         </div>
-        <div class="column"></div>
-        <div class="column"></div>
       </div>
       <h1 class="title has-text-left">Workshop Papers</h1>
       <div class="columns">
-        <div class="column">
-          <div class="card has-text-left">
-            <header class="card-header">
-              <div class="card-header-title">
-                <p style="font-size: 80%">
-                  GeoDANO: Geometric VLM with Domain Agnostic Vision Encoder
-                  <span style="color: #0f766e"> [ICLR SCI-FM '25] </span>
-                </p>
-              </div>
-              <button class="card-header-icon" style="padding-left: 0px">
-                <span class="icon">
-                  <a
-                    class="fas fa-external-link-alt"
-                    href="https://arxiv.org/abs/2502.11360"
-                  />
-                </span>
-              </button>
-            </header>
-            <div class="card-content">
-              <div class="content">
-                <div class="is-size-7">
-                  <b>Seunghyuk Cho</b>, Zhenyue Qin, Yang Liu, Youngbin Choi,
-                  Seungbeom Lee, Dongwoo Kim
-                </div>
-                <b-image
-                  style="margin: 5px auto 0 auto"
-                  :src="require('../assets/geodano.png')"
-                  class="nocrop"
-                  responsive
-                  ratio="16by9"
-                ></b-image>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="column">
-          <div class="card has-text-left">
-            <header class="card-header">
-              <div class="card-header-title">
-                <p style="font-size: 80%">
-                  CoPL: Collaborative Preference Learning for Personalizing LLMs
-                  <span style="color: #0f766e"> [ICLR Bi-Align '25] </span>
-                </p>
-              </div>
-              <button class="card-header-icon" style="padding-left: 0px">
-                <span class="icon">
-                  <a
-                    class="fas fa-external-link-alt"
-                    href="https://arxiv.org/abs/2503.01658"
-                  />
-                </span>
-              </button>
-            </header>
-            <div class="card-content">
-              <div class="content">
-                <div class="is-size-7">
-                  Youngbin Choi, <b>Seunghyuk Cho</b>, Minjong Lee, MoonJeong
-                  Park, Yesong Ko, Jungseul Ok, Dongwoo Kim
-                </div>
-                <b-image
-                  style="margin: 5px auto 0 auto"
-                  :src="require('../assets/copl.png')"
-                  class="nocrop"
-                  responsive
-                  ratio="16by9"
-                ></b-image>
-              </div>
-            </div>
-          </div>
-        </div>
         <div class="column">
           <div class="card has-text-left">
             <header class="card-header">
@@ -260,6 +258,8 @@
             </div>
           </div>
         </div>
+        <div class="column"></div>
+        <div class="column"></div>
       </div>
       <h1 class="title has-text-left">Pre-prints</h1>
       <div class="columns">
