@@ -1,38 +1,30 @@
-import Vue from 'vue';
-import VueRouter from 'vue-router';
-import Home from '../components/Home.vue';
-import Pub from '../components/Pub.vue';
-import Award from '../components/Award.vue';
-import Exp from '../components/Exp.vue';
-
-Vue.use(VueRouter);
+import { createRouter, createWebHistory } from 'vue-router';
 
 const routes = [
   {
     path: '/',
-    name: 'Home',
-    component: Home,
+    name: 'HomePage',
+    component: () => import('../components/HomePage.vue'),
   },
   {
     path: '/publications',
-    name: 'Pub',
-    component: Pub
+    name: 'PublicationList',
+    component: () => import('../components/PublicationList.vue')
   },
   {
     path: '/awards',
-    name: 'Award',
-    component: Award
+    name: 'AwardList',
+    component: () => import('../components/AwardList.vue')
   },
   {
     path: '/experiences',
-    name: 'Exp',
-    component: Exp
+    name: 'ExperienceList',
+    component: () => import('../components/ExperienceList.vue')
   }
 ];
 
-const router = new VueRouter({
-  mode: 'history',
-  base: process.env.BASE_URL,
+const router = createRouter({
+  history: createWebHistory(process.env.BASE_URL),
   routes,
 });
 

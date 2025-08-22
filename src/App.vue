@@ -1,21 +1,23 @@
 <template>
   <div id="app">
-    <b-navbar>
-      <template #end>
-        <b-navbar-item tag="router-link" :to="{path: '/'}">
-            Home
-        </b-navbar-item>
-        <b-navbar-item tag="router-link" :to="{path: '/publications'}">
-            Publications
-        </b-navbar-item>
-        <b-navbar-item tag="router-link" :to="{path: '/awards'}">
-            Honors
-        </b-navbar-item>
-        <b-navbar-item tag="router-link" :to="{path: '/experiences'}">
-            Experiences
-        </b-navbar-item>
-      </template>
-    </b-navbar>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-menu">
+        <div class="navbar-end">
+          <router-link to="/" class="navbar-item">
+              Home
+          </router-link>
+          <router-link to="/publications" class="navbar-item">
+              Publications
+          </router-link>
+          <router-link to="/awards" class="navbar-item">
+              Honors
+          </router-link>
+          <router-link to="/experiences" class="navbar-item">
+              Experiences
+          </router-link>
+        </div>
+      </div>
+    </nav>
     <router-view/>
   </div>
 </template>

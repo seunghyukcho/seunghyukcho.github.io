@@ -1,0 +1,71 @@
+{
+  "conference": [
+    {
+      "title": "GeoDANO: Geometric VLM with Domain Agnostic Vision Encoder",
+      "venue": "EMNLP Findings '25",
+      "link": "https://arxiv.org/abs/2502.11360",
+      "authors": "<b>Seunghyuk Cho</b>, Zhenyue Qin, Yang Liu, Youngbin Choi, Seungbeom Lee, Dongwoo Kim",
+      "image": "geodano.webp"
+    },
+    {
+      "title": "CoPL: Collaborative Preference Learning for Personalizing LLMs",
+      "venue": "EMNLP Main '25",
+      "link": "https://arxiv.org/abs/2503.01658",
+      "authors": "Youngbin Choi, <b>Seunghyuk Cho</b>, Minjong Lee, MoonJeong Park, Yesong Ko, Jungseul Ok, Dongwoo Kim",
+      "image": "copl.webp"
+    },
+    {
+      "title": "Feature Unlearning for Pre-trained GANs and VAEs",
+      "venue": "AAAI '24",
+      "link": "https://arxiv.org/abs/2303.05699",
+      "authors": "Saemi Moon, <b>Seunghyuk Cho</b>, Dongwoo Kim",
+      "image": "unlearning.webp"
+    },
+    {
+      "title": "Hyperbolic VAE via Latent Gaussian Distributions",
+      "venue": "NeurIPS '23",
+      "link": "https://arxiv.org/abs/2209.15217v3",
+      "authors": "<b>Seunghyuk Cho</b>, Juyong Lee, Dongwoo Kim",
+      "image": "gm-vae.webp"
+    },
+    {
+      "title": "A Rotated Hyperbolic Wrapped Normal Distribution for Hierarchical Representation Learning",
+      "venue": "NeurIPS '22",
+      "link": "https://arxiv.org/abs/2205.13371",
+      "authors": "<b>Seunghyuk Cho</b>, Juyong Lee, Jaesik Park, Dongwoo Kim",
+      "image": "rown.webp"
+    },
+    {
+      "title": "Robust Deep Learning from Crowds with Belief Propagation",
+      "venue": "AISTATS '22",
+      "link": "https://proceedings.mlr.press/v151/kim22a.html",
+      "authors": "Hoyoung Kim<sup>*</sup>, <b>Seunghyuk Cho</b><sup>*</sup>, Dongwoo Kim, Jungseul Ok",
+      "image": "deepbp.webp"
+    }
+  ],
+  "workshop": [
+    {
+      "title": "Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning",
+      "venue": "ICML TAGML '23",
+      "link": "https://arxiv.org/abs/2309.04082",
+      "authors": "Sungjun Cho, <b>Seunghyuk Cho</b>, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee",
+      "image": "fpst.webp"
+    }
+  ],
+  "preprint": [
+    {
+      "title": "Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey",
+      "venue": null,
+      "link": "https://arxiv.org/abs/2505.14340",
+      "authors": "<b>Seunghyuk Cho</b>, Zhenyue Qin, Yang Liu, Youngbin Choi, Seungbeom Lee, Dongwoo Kim",
+      "image": "pgps_survey.webp"
+    },
+    {
+      "title": "Roughly Collected Dataset for Contact Force Sensing Catheter",
+      "venue": null,
+      "link": "https://arxiv.org/abs/2102.01932",
+      "authors": "<b>Seunghyuk Cho</b><sup>*</sup>, Minsoo Koo<sup>*</sup>, Dongwoo Kim, Juyoung Lee, Yeonwoo Jung, Kibyung Nam, Changmo Hwang",
+      "image": "catheter.webp"
+    }
+  ]
+}

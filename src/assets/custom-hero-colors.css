@@ -1,0 +1,26 @@
+.custom-pub-hero {
+  background-color: #3498db; /* Bright blue */
+  color: white;
+}
+
+.custom-pub-hero .title {
+  color: white; /* Ensure title text is white */
+}
+
+.custom-award-hero {
+  background-color: #27ae60; /* Emerald green */
+  color: white;
+}
+
+.custom-award-hero .title {
+  color: white; /* Ensure title text is white */
+}
+
+.custom-exp-hero {
+  background-color: #8e44ad; /* Deep purple */
+  color: white;
+}
+
+.custom-exp-hero .title {
+  color: white; /* Ensure title text is white */
+}

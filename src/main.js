@@ -1,13 +1,14 @@
-import Vue from 'vue'
+import { createApp } from 'vue'
 import App from './App.vue'
-import Buefy from 'buefy'
-import 'buefy/dist/buefy.css'
 import router from './router'
+import Oruga from '@oruga-ui/oruga-next'
+import '@oruga-ui/theme-bulma/dist/bulma.css'
+import './assets/custom-hero-colors.css'
+import './assets/custom-image-styles.css'
 
-Vue.config.productionTip = false
-Vue.use(Buefy)
-
-new Vue({
-  router,
-  render: h => h(App),
-}).$mount('#app')
+createApp(App)
+  .use(router)
+  .use(Oruga, {
+    iconPack: 'fas',
+  })
+  .mount('#app')
