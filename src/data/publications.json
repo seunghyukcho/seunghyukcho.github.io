@@ -1,6 +1,13 @@
 {
   "conference": [
     {
+      "title": "Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey",
+      "venue": "EACL Findings '26",
+      "link": "https://arxiv.org/abs/2505.14340",
+      "authors": "<b>Seunghyuk Cho</b>, Zhenyue Qin, Yang Liu, Youngbin Choi, Seungbeom Lee, Dongwoo Kim",
+      "image": "pgps_survey.webp"
+    },
+    {
       "title": "GeoDANO: Geometric VLM with Domain Agnostic Vision Encoder",
       "venue": "EMNLP Findings '25",
       "link": "https://arxiv.org/abs/2502.11360",
@@ -53,13 +60,6 @@
     }
   ],
   "preprint": [
-    {
-      "title": "Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey",
-      "venue": null,
-      "link": "https://arxiv.org/abs/2505.14340",
-      "authors": "<b>Seunghyuk Cho</b>, Zhenyue Qin, Yang Liu, Youngbin Choi, Seungbeom Lee, Dongwoo Kim",
-      "image": "pgps_survey.webp"
-    },
     {
       "title": "Roughly Collected Dataset for Contact Force Sensing Catheter",
       "venue": null,
