@@ -24,3 +24,8 @@
 .custom-exp-hero .title {
   color: white; /* Ensure title text is white */
 }
+
+/* Force light mode only */
+:root {
+  color-scheme: light only;
+}
