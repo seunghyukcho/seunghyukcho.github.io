@@ -61,6 +61,13 @@
   ],
   "preprint": [
     {
+      "title": "In-Place Feedback: Reliable Refinement for Multi-Turn Expert-LLM Collaboration",
+      "venue": null,
+      "link": "https://arxiv.org/abs/2510.00777",
+      "authors": "Youngbin Choi, Minjong Lee, Saemi Moon, <b>Seunghyuk Cho</b>, Chaehyeon Chung, MoonJeong Park, Dongwoo Kim",
+      "image": "ipf.webp"
+    },
+    {
       "title": "Roughly Collected Dataset for Contact Force Sensing Catheter",
       "venue": null,
       "link": "https://arxiv.org/abs/2102.01932",
