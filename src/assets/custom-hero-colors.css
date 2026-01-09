@@ -29,3 +29,24 @@
 :root {
   color-scheme: light only;
 }
+
+html, body {
+  background-color: #ffffff !important;
+  color: #4a4a4a !important;
+}
+
+.hero.is-fullheight-with-navbar {
+  background-color: #ffffff !important;
+}
+
+.card {
+  background-color: #ffffff !important;
+}
+
+.card-header {
+  background-color: #fafafa !important;
+}
+
+.navbar {
+  background-color: #ffffff !important;
+}
