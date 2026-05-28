@@ -1,6 +1,13 @@
 {
   "conference": [
     {
+      "title": "Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation",
+      "venue": "ICML '26",
+      "link": "https://arxiv.org/abs/2602.21565",
+      "authors": "Seokwon Yoon, Youngbin Choi, <b>Seunghyuk Cho</b>, Seungbeom Lee, MoonJeong Park, Dongwoo Kim",
+      "image": "gflownet.webp"
+    },
+    {
       "title": "Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey",
       "venue": "EACL Findings '26",
       "link": "https://arxiv.org/abs/2505.14340",
@@ -60,6 +67,13 @@
     }
   ],
   "preprint": [
+    {
+      "title": "Long Live the Librarian! A Persistent Search Sub-Agent for Energy-Efficient Multi-Agent Software Engineering Systems",
+      "venue": null,
+      "link": "https://arxiv.org/abs/2605.27787",
+      "authors": "<b>Seunghyuk Cho</b>, Sunghyun Choi, Jaeseung Heo, Youngbin Choi, Saemi Moon, MoonJeong Park, Dongwoo Kim",
+      "image": "librarian.webp"
+    },
     {
       "title": "In-Place Feedback: Reliable Refinement for Multi-Turn Expert-LLM Collaboration",
       "venue": null,
